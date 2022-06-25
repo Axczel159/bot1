@@ -19,6 +19,7 @@
     "nlpcloud": "^1.0.23",
     "node-opus": "^0.3.3",
     "node-schedule": "^2.1.0",
+    "nodejs": "0.0.0",
     "openai": "^3.0.0",
     "opusscript": "0.0.8",
     "youtube-music-api": "^1.0.6",
